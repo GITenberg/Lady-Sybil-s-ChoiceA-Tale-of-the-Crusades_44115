@@ -1,0 +1,27 @@
+_repo: Lady-Sybil-s-ChoiceA-Tale-of-the-Crusades_44115
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44115-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2013-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Crusades -- Fiction'
+- !lcc 'PR'
+title: 'Lady Sybil''s Choice: A Tale of the Crusades'
+url: http://www.gutenberg.org/ebooks/44115
